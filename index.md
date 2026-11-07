@@ -23,8 +23,8 @@ instructor:
    email: msleiman1@gsu.edu
    office_location: 55 Park Place, Room 679
    website: 
-   office_hours_time: By Appointment (email me!)  
-   office_hours_location:  
+   office_hours_time: By Appointment (email me! at msleiman1@gsu.edu)  
+   office_hours_location:  My office or Zoom
 
 textbooks:
 - title: R Cookbook, 2nd Edition
