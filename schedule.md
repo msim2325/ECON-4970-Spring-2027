@@ -2,25 +2,25 @@
 layout: schedule
 title: Schedule
 
-base: 'https://github.com/lalmada1/Intro-to-Data-Science-Econ-4970/'
+base: 'https://github.com/msim2325/ECON-4970-Spring-2027/'
 
 canvas:
-  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/user/folders_list.d2l?ou=3702598&isprv=0'
-  yellowdig_url: 'https://gastate.view.usg.edu/d2l/le/3702598/discussions/List'
+  assignment_url: 'https://gastate.view.usg.edu/'
+  yellowdig_url: 'https://gastate.view.usg.edu/'
 
 lab-due-dates:
-  lab-01: 'Mon Sept 7'
-  lab-02: 'Mon Sept 21'
-  lab-03: 'Mon Oct 5'
-  lab-04: 'Mon Nov 2'
-  lab-05: 'Mon Nov 16'
+  lab-01: 'Mon Feb 1'
+  lab-02: 'Mon Feb 15'
+  lab-03: 'Mon Mar 1'
+  lab-04: 'Mon Mar 29'
+  lab-05: 'Mon Apr 12'
   lab-06: 'Extra Credit'
 
 code-through:
-  due-date: 'Fri Dec 4'
+  due-date: 'Fri Apr 30'
   
 final-project:
-  due-date: 'Mon Nov 30'
+  due-date: 'Mon Apr 26'
 
 ---
 
@@ -264,7 +264,7 @@ Visit the [video](https://youtu.be/ALwHaNzQub0) to navigate using timestamps in 
 
 The following checklist will help you organize and prepare for success in this course.
 
-- [ ] [Read the Syllabus](https://lalmada1.github.io/Intro-to-Data-Science-Econ-4970/)
+- [ ] [Read the Syllabus](https://msim2325.github.io/ECON-4970-Spring-2027/)
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/)
 - [ ] Introduce Yourself in iCollege (See Below)
 - [ ] (Recommended) Skim Readings
@@ -599,7 +599,7 @@ This lab is designed to introduce you to basic functions that explore datasets a
 Click to access the lab templates. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" 
-   onclick="window.open('https://lalmada1.github.io/Intro-to-Data-Science-Econ-4970/templates/')">
+   onclick="window.open('https://msim2325.github.io/ECON-4970-Spring-2027/templates/')">
    LAB Templates
 </a>
 
@@ -780,7 +780,7 @@ The rest of the chapter is useful information to come back to, but not needed fo
 Click to access the lab templates. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" 
-   onclick="window.open('https://lalmada1.github.io/Intro-to-Data-Science-Econ-4970/templates/')">
+   onclick="window.open('https://msim2325.github.io/ECON-4970-Spring-2027/templates/')">
    LAB Templates
 </a>
 
@@ -943,7 +943,7 @@ Code is provided to get you started, but you will have to use documentation and 
 Click to access the lab templates. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" 
-   onclick="window.open('https://lalmada1.github.io/Intro-to-Data-Science-Econ-4970/templates/')">
+   onclick="window.open('https://msim2325.github.io/ECON-4970-Spring-2027/templates/')">
    LAB Templates
 </a>
 <!--
@@ -1118,7 +1118,7 @@ Click to access the lab templates. Modify and submit using the instructions.
 
 
 <a class="uk-button uk-button-default" 
-   onclick="window.open('https://lalmada1.github.io/Intro-to-Data-Science-Econ-4970/templates/')">
+   onclick="window.open('https://msim2325.github.io/ECON-4970-Spring-2027/templates/')">
    LAB Templates
 </a>
 
@@ -1276,7 +1276,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 Click to access the lab templates. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" 
-   onclick="window.open('https://lalmada1.github.io/Intro-to-Data-Science-Econ-4970/templates/')">
+   onclick="window.open('https://msim2325.github.io/ECON-4970-Spring-2027/templates/')">
    LAB Templates
 </a>
 
@@ -1386,7 +1386,7 @@ This lab is designed to introduce you to primary data join functions in R.
 Click to access the lab templates. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" 
-   onclick="window.open('https://lalmada1.github.io/Intro-to-Data-Science-Econ-4970/templates/')">
+   onclick="window.open('https://msim2325.github.io/ECON-4970-Spring-2027/templates/')">
    LAB Templates
 </a>
 
