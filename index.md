@@ -8,24 +8,23 @@ index:
     subtitle: This course introduces students to the field of data science and its applications using the R data programming language, an open-source platform that has become an industry standard because of its flexibility and power. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offers a practical, tools-based approach that is designed to build strong foundations for people who want to work as analysts, data-driven managers, or data-driven journalists. The course will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
 
 info:
- course_title: Intro to Data Science for Economists 
+ course_title: Intro to Data Science for Economists
  course_number: Econ 4970
  course_level: Undergraduate
- course_website: [https://gastate.view.usg.edu/d2l/home/3702598]
- course_start_end_dates: Aug 24 - Dec 15, 2026
+ course_website: [https://gastate.view.usg.edu/]
+ course_start_end_dates: Jan XX - May XX, 2027
  course_prerequisites:  
- class_meets_when:  Tuesday 12:45 PM - 3:15 PM
- class_meets_where: Classroom South | Room 200
+ class_meets_when:  Monday 9:30 AM - 12:00 PM
+ class_meets_where: Atlanta Campus | Classroom South | Room 200
 
 instructor:
--  name: Lorenzo Almada
-   title: Clinical Associate Professor
-   email: lalmada1@gsu.edu
-   office_location: 55 Park Place Room 682
-   website: "https://aysps.gsu.edu/profile/lorenzo-almada/"
+-  name: Marc Sleiman
+   title: YOUR TITLE
+   email: msleiman1@gsu.edu
+   office_location: 55 Park Place, Room 679
+   website: 
    office_hours_time: By Appointment (email me!)  
    office_hours_location:  
-
 
 textbooks:
 - title: R Cookbook, 2nd Edition
@@ -69,208 +68,4 @@ Data is an essential ingredient of any program evaluation or performance managem
 
 ## B. About the Course
 
-The course introduces students to the R data programming language, an open-source platform that has become an industry standard because of its flexibility and power. It was designed to allow people to quickly develop and share new statistical tools. It has evolved into a more general data analytics platform that can be used for analytics, customized visualizations, GIS applications, text analysis, building web applications, and much more. It has a large and active user community that has developed thousands of free custom programs.
-
-## C. Course Objectives
-
-This course, Introduction to Data Science, will cover the building blocks of data programming in R. We will learn about variables, operators, functions, dataset construction, group structure in data, visualization, and simulation. Students will also be introduced to markdown documents and automated reporting.
-
-The five main learning objectives for the course are:
-
-1. Mastery of functions and arguments as the building blocks of R
-2. Knowledge of variable types and data structures in R, including construction and manipulation
-3. Use of logical statements to create and analyze groups within data
-4. Ability to build custom visualizations through the base R graphics package
-5. Creation of dynamic graphics and data dashboards using R Shiny tools
-
-## D. Course Prerequisites:
-
-There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed R and RStudio, and worked through a basic tutorial on RStudio.
-
-# II. Assessment of Student Performance & Proficiency
-
-## A. Performance Assessment
-
-Assessment of student performance in this course is based on indications that the course learning objectives stated above have been achieved. Several areas of measurement will be used to produce a final student performance rating. These areas of performance assessment include the following:
-
-1. The ability to build a custom dataset by importing, merging, reshaping, filtering, and subsetting data
-2. Translating plain use cases to logical statements in R using operators and grouping techniques
-3. Communicating information by developing custom visualizations and graphics
-4. Using markdown documents to generate data-driven reports and data dashboards
-
-## B. Demonstrating Proficiency
-
-Students will demonstrate competency in understanding, producing, and communicating results of their analyses through the following assignments:
-
-1. In-lecture assessment questions to ensure basic comprehension of key concepts and track progress
-2. Weekly labs that provide opportunities to consolidate and apply material from the lectures
-3. Discussion topics on broad data science concepts, news, and trends
-4. Final projects that integrate several skills  
-
-Assigned work, including the final course projects as well as regular, active participation in the classroom are the tools the instructor will use to measure comprehension and skill; the student&#39;s course grade is a direct reflection of demonstrated performance. Students should take stated expectations seriously regarding preparation, conduct, and academic honesty in order to receive a grade reflecting outstanding performance.  
-
-**Note:** Students should be aware that merely completing assigned work in no way guarantees an outstanding grade in the course. To receive an outstanding course grade (using the grading scheme described below and the performance assessment approach noted above), all assigned work should be completed on time with careful attention to assignment details.
-
-# III. Course Structure, Operations, & Expectations
-
-## A. Format & Pedagogical Theory
-
-### Incremental Progression
-
-Mastering advanced analytical techniques and data programming is like learning a language. You start by mastering basic vocabulary that is specific to statistics and data science. Through your coursework, you will become conversant in the domains of regression analysis, research design, and data science. Progress might be slow at first as you work to master core concepts, integrate the building blocks into a coherent mental model of real-world problems, learn to translate technical results into clear narratives for non-technical audiences, and become comfortable with data programming skills.
-
-Over time, you will find that your thought processes change as you approach problem-solving in a more structured and evidence-based manner; you apply counterfactual reasoning to performance problems, and you start reading the news and viewing scientific evidence differently. You begin to think and speak like a program evaluator.
-
-
-### Retention
-
-Similar to immersion in a language, the best way to learn the material is to be consistent in doing coursework each day. The more frequently you revisit concepts and practice data programming the more you will absorb. The curriculum has been designed around this approach. Lectures are split into small units, and each unit includes questions to test your understanding of the material. Weekly labs allow you to spend some time applying the material to a specific problem. The final projects at the end of the semester are designed to help you make connections between concepts and consolidate knowledge.
-
-You will be much better off spending a small amount of time each day on the material instead of trying to cram everything into a couple of days a week.
-
-### Video Lectures
-
-Several videos are provided throughout the course. They are not mandatory viewing; however, we have recently integrated them into the Course Schedule and elsewhere to provide an additional medium for audio-visual learning in demonstrating core concepts. We recommend reproducing the data analytic tasks you see while watching each in order to ensure retention. Video lectures are designed as a supplement and not intended for use in lieu of assigned reading. Take advantage of the bookmarks and timestamps to quickly navigate to topics of interest in each video and consider subscribing as new course content is published frequently.
-
-## B. Assigned Reading Materials
-
-We will use a custom textbook for this course. Visit the [**Course Textbook**](https://ds4ps.org/dp4ss/).
-
-The following texts are recommended as good reference material for topics covered in this course:
-
-* Wickham, H., &amp; Grolemund, G. (2016). _R for Data Science._ O&#39;Reilly Press.
-* Teetor, P. (2011). _R Cookbook: Proven recipes for data analysis, statistics, and graphics_. O&#39;Reilly Media.  
-* Sanchez, G. (2013). _Handling and processing strings in R._ Berkeley: Trowchez Editions.
-* Peng, R. D., &amp; Matsui, E. (2015). _The Art of Data Science._ Skybrude Consulting, 200, 162.  
-
-A variety of free e-books are also available on [**LeanPub**](https://leanpub.com/bookstore/book?search=r%20data%20science).
-
-In addition to the required reading, the instructor will supplement these with video overviews, journal articles, policy reports, or other related material. These will be made available in the course shell.
-
-## C. General Grading Rubric for Written Work
-
-In general, any submitted work is assessed on these evaluative criteria:
-
-- **Completeness:** All elements of the assignment are addressed
-- **Quality of Analysis:** Substantively rigorous in addressing the assignment
-- **Understanding:** Demonstrated synthesis and application of core lecture concepts
-- **Appearance:** Consistent formatting, style, spelling, grammar, and conventions in code/text
-
-The final projects will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
-
-## D. Course Grading System for Assigned Work & Final Projects
-
-Letter grades are determined as follows:
-
-------------|--------
-Above 98%   |  **A+**
- 98 – 94%   |  **A**
- 93 – 90%   |  **A-**
- 89 – 87%   |  **B+**
- 86 – 84%   |  **B**
- 83 – 80%   |  **B-**
-Below 80%   |  **C, D, F**  
-
-The assigned work for the term comes in the form of four elements, described below.
-
-### Weekly Labs (30%)  
-
-In each module, you will receive a short lab that will help you synthesize the lectures from the week through exercises that involve data, analysis, and important formulas from the lectures. **They are graded for completion and accuracy (100-90% = Mostly Complete and Accurate; 89-80% = Incomplete or not fully accurate; 79-70% = Incomplete/late; 0% = Not submitted).**
-
-### Code-Through Project (30%)
-
-You will pick one topic from the class that you want to learn more about, or that you think might provide value to your classmates. Create a short tutorial to make your topic accessible to your peers. It can be a blog post, a recorded video, or an in-class presentation that explains an important concept from data science as it relates to economics. The purpose of the code-through tutorial is to demonstrate how data science tools can be used in economic applications. These tutorials can explain how to use R tools to work with economic datasets or introduce classmates to a new package or function commonly used in economics research.
-
-The following criteria, description, and corresponding points are used to evaluate the project (100 points total):
-
-  - **Novelty & Value:** Focuses on a new, valuable topic or expansion of existing course material (**20 pts**)
-  - **Exposition:** Topic is thoroughly explained, e.g., purpose, theory, framework, etc. (**20 pts**)
-  - **Appearance:** Consistent code conventions and style; proper spelling, formatting, etc. (**20 pts**)
-  - **Demonstration:** Includes examples of application and relevance; 75% or more is original (**20 pts**)
-  - **Resources:** Topic-related resources are provided, described, and organized (**20 pts**)
-
-**Note:** Proper in-line and closing attribution of works cited is mandatory. See III. A. for more information.
-
-### Dashboard Project (20%)  
-
-The dashboard project requires you to transform data and allow the exploration of new insights using interactive mechanisms in a pre-built data dashboard. It is designed to give you practice integrating material that we have covered throughout the course, with latitude to implement creativity and your own data product style.
-
-The following criteria, description, and corresponding points are used to evaluate the project (100 points total):
-
-  - **New Tabs Added:** Custom tabs successfully integrated; runs without errors **(25 pts)**
-  - **Widget Integration:** Widgets correctly linked; visual output is reactive **(25 pts)**
-  - **Data Reporting:** Value boxes, tables, graphics, or other reporting are provided and functional **(10 pts)**
-  - **Documentation:** Sufficient documentation provided on "About" tab **(10 pts)**
-  - **Style:** Content exceeds expectations in functionality, design, layout, analysis, or insights **(20 pts)**
-  - **Upload to Shinyapps.io:** Dashboard posted to Shinyapps.io and available through an active URL **(10 pts)**
-
-### Attendance (20%)
-
-Weekly attendance is mandatory. We use our class time to engage in discussion, review course material, and work through labs and other coding projects together. You will learn by doing, and the best way to do this is by working together in class with your instructor there available to help. You are allowed one excused absence before your attendance grade is adversely affected. 
-
-## E. Late and Missing Assignments
-
-Grades for the course are largely based on weekly labs and projects. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed in a timely fashion by the due date. Once solutions are posted, it is no longer possible to receive points for assignments.
-
-## F. Course Communications and Instructor Feedback: 
-
-**Course content** is hosted on this website. Lecture files, assignments, and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through [**iCollege**](https://gastate.view.usg.edu/d2l/home/3702598).
-
-Please schedule individual office hours, meet with the course GTA, or email the instructor directly if you need outside-class assistance.
-
-Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments is between 5 and 10 work days.
-
-## F.  Student Conduct
-
-Respectful conversations and tolerance of others&#39; opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course with no refund. Students are required to adhere to the behavior standards listed in the GSU Student Code of Conduct.
-
-## G.  Academic Integrity and Honesty
-
-GSU expects the highest standards of academic integrity. Violations of academic integrity include but are not limited to cheating, plagiarism, fabrication, etc. or facilitating any of these activities. This course relies heavily on writing and original critical thought. Any student who is suspected of not producing his or her own original work will be reported to the Dean of Students for investigation. **Plagiarism will not be tolerated**. **Any student who plagiarizes or otherwise fabricates his or her work will receive no credit for that assignment. It will be recorded as zero points—and the student will risk a failing grade for the course.** For more information, refer to the GSU Student Code of Conduct.
-
-## H.  Student Accommodations
-
-**Disability Accommodations:** If you have any condition, such as a physical or mental disability, which will make it difficult for you to carry out the work as outlined above or which will require extra time on assignments, please notify us in the first two weeks of the course so that we may make appropriate arrangements. Students who wish to request accommodation for a disability may do so by registering with the GSU Access & Accommodations Center (AACE). Students may only be accommodated upon issuance of a signed Accommodation Plan by AAACE. Students are responsible for providing a copy of that plan to instructors of all classes in which an accommodation is sought.
-
-**Religious accommodations:** Students will not be penalized for missing an assignment due solely to a religious holiday/observance, but as this class operates with a fairly flexible schedule, all efforts should be made to complete work within the required timeframe. If this is not possible, students must notify the instructor as far in advance as possible in order to make an alternative arrangement.
-
-**Military Accommodations:** A student who is a member of the National Guard, Reserve, or other branch of the armed forces and is unable to complete classes because of military activation may request complete or partial unrestricted administrative withdrawals or incompletes depending on the timing of the activation. Please notify the instructor as soon as you are aware of a potential activation.
-
-# IV. Course Schedule
-
-## A. Schedule: Overview of Readings and Assignments
-
-This course spans a fourteen week schedule. A schedule for each week of the term is outlined here; the course is divided into seven units with learning objectives for each unit.
-
-Please note: the course instructor may from time to time adjust assigned readings or adjust the due dates for assignment. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
-
-Visit the [**Course Schedule**](https://lalmada1.github.io/Intro-to-Data-Science-Econ-4970/schedule).
-
-<br>
-<br>
-
-<style>
-
-body {
-   font-family: "Roboto", sans-serif;
-}
-
-p.italic {
-  font-style: italic;
-  color: black !important;
-}
-
-#fa-icon {
-  font-style: normal;
-}
-
-iframe {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-em {
-  color: black !important;
-}
-
-</style>
+The course introduces students to the R data programming language, an open-source platform that has become an industry standard because of its flexibility and power. It was designed to allow people to quickly develop and share new statistical tools. It has evolved into a more general data analytics platform that can be used for analytics, customized visualizations, GIS applications, text analysis, building
