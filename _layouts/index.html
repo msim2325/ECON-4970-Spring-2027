@@ -169,8 +169,8 @@ layout: default
 <td><a href="{{item.website}}">{{item.name}}</a></td>
 <td>{{item.title}}</td>
 <td>{{item.phone}}</td>
-<td> <a href="mailto:{{item.email}}" title="email"><i id="fa-icon" class="fa fa-envelope fa-2x" ></i></a> </td>
-
+<td> <a href="mailto:{{item.email}}" title="email"><i id="fa-icon" class="fa fa-envelope fa-2x" ></i> {{item.email}}</a> </td>
+  
 {% if item.github_url %}
 <td> <a href="{{item.github_url}}" title="github"><i id="fa-icon" class="fab fa-github fa-2x" "></i></a> </td>
 {% endif %}
