@@ -2,23 +2,20 @@
 ### This configuration file control settings for the website. 
 
 
-
-
-
 ###
 ###  COURSE INFO
 ###
 
 
 github_info:
-    username:       lalmada1   # GitHub account name
-    website-repo:   Intro-to-Data-Science-Econ-4970
-    course-repo:    Intro-to-Data-Science-Econ-4970
+    username:       msim2325   # GitHub account name
+    website-repo:   ECON-4970-Spring-2027
+    course-repo:    ECON-4970-Spring-2027
  
 description:        Intro. course in data science for economists using R 
 
-course_url:         "https://lalmada1.github.io/Intro-to-Data-Science-Econ-4970"
-title:              lalmada1   # GitHub account name
+course_url:         "https://msim2325.github.io/ECON-4970-Spring-2027"
+title:              msim2325   # GitHub account name
 
 brand:
     image:          # e.g. logo.png, upload logo image file to /assets/img/ folder
@@ -38,10 +35,8 @@ program-website:
 ###
 
 author:
-    name:       Lorenzo Almada 
-    github:     lalmada1   # Github username for avatar
-
-
+    name:       Marc Sleiman 
+    github:     msim2325   # Github username for avatar
 
 
 ###
@@ -64,32 +59,6 @@ header:
 
 
 # set navbar color at assets/css/custom.css under default_nav and footer background-color
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # IGNORE THESE SETTINGS
